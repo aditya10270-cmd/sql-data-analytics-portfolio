@@ -1,17 +1,17 @@
 # SQL Data Analytics Portfolio Project
 
-## 📌 Overview
+##  Overview
 
 This repository demonstrates SQL-based data analytics techniques using a retail sales dataset. The project focuses on extracting meaningful business insights through SQL queries, data exploration, and analytical reporting.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze sales performance and customer behavior.
 - Perform data cleaning and transformation using SQL.
 - Answer real-world business questions with SQL.
 - Showcase SQL skills for a data analyst portfolio.
 
-## 🛠️ Skills Demonstrated
+##  Skills Demonstrated
 
 - SQL Queries
 - Joins
@@ -23,7 +23,7 @@ This repository demonstrates SQL-based data analytics techniques using a retail 
 - Data Cleaning
 - Business Analysis
 
-## 📂 Project Structure
+##  Project Structure
 
 
 datasets/    -> Raw datasets
@@ -39,13 +39,13 @@ scripts/     -> SQL scripts and analysis
 - Which regions perform best?
 - What are the top-selling products?
 
-## 🚀 Tools Used
+##  Tools Used
 
 - SQL Server
 - Visual Studio Code
 - Git & GitHub
 
-## 👨‍💻 About Me
+##  About Me
 
 *Aditya Kumar Singh*
 
@@ -53,6 +53,6 @@ Aspiring Data Analyst passionate about SQL, Power BI, Python, and data visualiza
 
 GitHub: https://github.com/aditya10270-cmd
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 This project is based on the SQL Data Analytics Project by Data With Baraa. I have used it as a learning resource and will continue extending it with my own SQL analyses, business insights, and improvements.
