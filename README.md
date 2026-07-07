@@ -31,7 +31,7 @@ docs/        -> Documentation
 scripts/     -> SQL scripts and analysis
 
 
-## 📊 Business Questions Answered
+##  Business Questions Answered
 
 - Which products generate the highest revenue?
 - Which customers contribute the most sales?
@@ -49,7 +49,7 @@ scripts/     -> SQL scripts and analysis
 
 *Aditya Kumar Singh*
 
-Aspiring Data Analyst passionate about SQL, Power BI, Python, and data visualization.
+Aspiring Data Analyst passionate about SQL, Tableau, Python, and data visualization.
 
 GitHub: https://github.com/aditya10270-cmd
 
